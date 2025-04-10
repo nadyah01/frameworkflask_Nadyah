@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(187, 222, 240);
+    color: rgb(247, 139, 62);
+    text-align: right;
+    align-items: center;
+    align-content: center;
+    padding: 50px;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkred;
+}
+
+p {
+    font-size: 20px;
+    text-align: center;
+    color: rgb(99, 3, 112);
+}
+
+
+input {
+    width: 60%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
